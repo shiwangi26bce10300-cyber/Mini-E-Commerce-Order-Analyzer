@@ -1,0 +1,58 @@
+[
+    {
+        "id": "P001",
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 55000,
+        "stock": 10
+    },
+    {
+        "id": "P002",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 800,
+        "stock": 25
+    },
+    {
+        "id": "P003",
+        "name": "Keyboard",
+        "category": "Electronics",
+        "price": 1200,
+        "stock": 20
+    },
+    {
+        "id": "P004",
+        "name": "Headphones",
+        "category": "Electronics",
+        "price": 1500,
+        "stock": 15
+    },
+    {
+        "id": "P005",
+        "name": "Notebook",
+        "category": "Stationery",
+        "price": 100,
+        "stock": 50
+    },
+    {
+        "id": "P006",
+        "name": "Pen",
+        "category": "Stationery",
+        "price": 20,
+        "stock": 100
+    },
+    {
+        "id": "P007",
+        "name": "Backpack",
+        "category": "Bags",
+        "price": 1200,
+        "stock": 18
+    },
+    {
+        "id": "P008",
+        "name": "Water Bottle",
+        "category": "Accessories",
+        "price": 500,
+        "stock": 30
+    }
+]

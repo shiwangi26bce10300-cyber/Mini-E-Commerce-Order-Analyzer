@@ -1,0 +1,6 @@
+# Reports
+
+Generated sales, product and order reports will be stored in this folder.
+
+The report files are generated automatically when the user selects
+the report options from the main menu.

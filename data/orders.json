@@ -1,0 +1,41 @@
+[
+    {
+        "id": "O001",
+        "customer": "Rahul",
+        "status": "PLACED",
+        "items": [
+            {
+                "product_id": "P002",
+                "product_name": "Wireless Mouse",
+                "price": 800,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "id": "O002",
+        "customer": "Ananya",
+        "status": "PLACED",
+        "items": [
+            {
+                "product_id": "P004",
+                "product_name": "Headphones",
+                "price": 1500,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": "O003",
+        "customer": "Rohan",
+        "status": "PLACED",
+        "items": [
+            {
+                "product_id": "P007",
+                "product_name": "Backpack",
+                "price": 1200,
+                "quantity": 2
+            }
+        ]
+    }
+]
